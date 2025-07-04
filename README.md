@@ -77,15 +77,25 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/coff.ee/puspendu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coff.ee/puspendu" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampuspendu&show_icons=true&locale=en&layout=compact" alt="iampuspendu" /></p>
+<br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampuspendu&show_icons=true&locale=en" alt="iampuspendu" /></p>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampuspendu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampuspendu&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampuspendu&" alt="iampuspendu" /></p>
+<br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iampuspendu&" alt="GitHub Streak" />
 <div align="center">
   <img src="snake.svg" alt="Snake animation" />
 </div>
+<br>
+
+<h3 align="left">Support:</h3>
+
+<a href="https://www.buymeacoffee.com/coff.ee/puspendu"> 
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="0" width="250" alt="Buy Me A Coffee" />
+</a>
